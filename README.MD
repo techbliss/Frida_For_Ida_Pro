@@ -44,3 +44,6 @@ More functions.
 Why
 
 Why not.
+
+Decencies
+Ida Pro and PyQt installed
