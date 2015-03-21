@@ -40,3 +40,7 @@ Have to Use Qprocess to out put trace and debug input to Qtextbox.
 Specially dicover can have so many lines its hard to.
 Gonna ad a python code editor, that will work in ida also. when i got the time :).
 More functions.
+
+Why
+
+Why not.

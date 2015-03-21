@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'IDA_frida.ui'
-#
-# Created: Sat Mar 21 18:34:42 2015
-#      by: PyQt4 UI code generator 4.11.3
-#
-# WARNING! All changes made in this file will be lost!
+# -Author Storm Shadow
 
 from PyQt4 import QtCore, QtGui
 
