@@ -47,3 +47,5 @@ Why not.
 
 Decencies
 Ida Pro and PyQt installed
+
+Credits to the devs of frida
