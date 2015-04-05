@@ -43,6 +43,9 @@ More functions.
 
 Why
 
+If you have trouble loading plugin see tut of howto setup ida and PyQt correct.
+http://www.techbliss.org/threads/adb-qt-super-version.626/#post-2095
+
 Why not.
 
 Decencies
